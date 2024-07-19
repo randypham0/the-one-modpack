@@ -1,0 +1,13 @@
+name = "Unearthed Journey"
+filename = "unearthed_journey-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98c7ba2d45414389c9d9d2d652ccf13d9f2936b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5342961
+project-id = 905183

@@ -1,0 +1,13 @@
+name = "NBC Heroes"
+filename = "Heroes_Beta_Forge_Fabric_V.1.1.82.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e7b0869bc9cdb8ef23dccfd9c1c6f789efac0f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5481397
+project-id = 969003

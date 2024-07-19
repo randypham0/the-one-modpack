@@ -1,0 +1,13 @@
+name = "Doctor Who - TARDIS - Reborn"
+filename = "DoctorWhoMod-1.20.1-forge-1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13e33a3bce25589115ab89e2584a92cf515ecd54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5520385
+project-id = 884515

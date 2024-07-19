@@ -1,0 +1,13 @@
+name = "Vic's Point Blank"
+filename = "pointblank-1.20.1-1.5.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc02a4f7526254a3d71d7f2370170159c9ad49a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5525294
+project-id = 961053

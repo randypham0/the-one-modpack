@@ -1,0 +1,13 @@
+name = "Cobblemon O' Plenty"
+filename = "Cobblemon O' Plenty 1.20.1 B.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6144604350479d130d0ec1bd0f9a832b1dc74cb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5450750
+project-id = 936334

@@ -1,0 +1,13 @@
+name = "Choup's Drakvyrn Mod"
+filename = "Choup's Drakvyrn Mod for 1.20.1 (v2.4.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2180d0e0afe67aa00536fa67c57cea45f5bfdf8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5485921
+project-id = 945686

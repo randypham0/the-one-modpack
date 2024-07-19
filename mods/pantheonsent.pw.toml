@@ -1,0 +1,13 @@
+name = "PantheonSent"
+filename = "pantheonsent-1.1.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec6916a5fe5c9406584406c6c4693eac89f1d818"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5288521
+project-id = 968457
