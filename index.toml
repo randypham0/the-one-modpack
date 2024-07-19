@@ -7533,8 +7533,18 @@ hash = "de26e9cf129763063add663b9e7bb239a152216e37ee9e831ff955e0820f7e08"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "cae1dba77a14bdc6857c29406920d9cc704561e7b6f21b4688800b77a062a4f2"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "df9fa54fc9635b60d8788138da56e972dabb350e6b55e0ce6709c29f029926d6"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
 metafile = true
 
 [[files]]
@@ -7818,6 +7828,11 @@ hash = "085fe35426604ffbd124f8dcdf30e2f38c3667704c93a5c0cb2c8ed12614e99c"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
 metafile = true
@@ -7850,6 +7865,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
 metafile = true
 
 [[files]]
@@ -8199,4 +8219,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8aef8b57798de3792f184ca949f23c53f35bb21ed2cbe88b988045e22c1b91e7"
+hash = "ac8a23adad5402d1bb758beab836cb3dbb5537e30b3716f4ef77906cfb6cfbf7"
