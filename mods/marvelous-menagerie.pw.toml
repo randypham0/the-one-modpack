@@ -1,13 +1,13 @@
 name = "Marvelous Menagerie"
-filename = "marvelous_menagerie-1.4-1.20.1.jar"
+filename = "marvelous_menagerie-2.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "970133c2b4b3c59bec77a4956ce69015e3bcbef3"
+hash = "174670c439a880fb01116902b8a18d2a7f4423c2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5451204
+file-id = 5540924
 project-id = 1030967

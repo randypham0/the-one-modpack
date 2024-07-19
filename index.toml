@@ -6487,7 +6487,7 @@ metafile = true
 
 [[files]]
 file = "mods/astemirlib.pw.toml"
-hash = "f807d6fc339254a44a34c695121454553673550c5b3963c403103eca99396193"
+hash = "d6906b0d1707c6b1abec9205475a9c5186993a30ee383ada6f7f859a9f71a6a5"
 metafile = true
 
 [[files]]
@@ -6652,7 +6652,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "2f27bc6b84433eb0bec1338dadba55037635ab7eb7209bc4609f539c89c4c65d"
+hash = "c1fa8e6889d3dffd9708de9d59aeeaefec66ff013b0bc32de2e23ec9199c66e9"
 metafile = true
 
 [[files]]
@@ -7424,7 +7424,7 @@ hash = "47015099a397c2064d9b384ddd8db1cc16dcf25e2f40d85432ca498987812b4e"
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "518f74ded0b3d8c381b27219664095b14bd53a4db0be2e25b637bbf8f445d3dd"
+hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
 
 [[files]]
@@ -7504,7 +7504,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
 metafile = true
 
 [[files]]
@@ -7534,7 +7534,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "4c8099b44df7a95fd6a2fb52aa201284a2a7bd1ea8a22f0c3158a2eb5ff8e599"
+hash = "6ee4b58af6dd9df596f971dcc08a1d300e27a15afb023c7105c4e334ba872c45"
 metafile = true
 
 [[files]]
@@ -7579,7 +7579,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f85d238a2efeab467e28ac5766b1acbabe90f8fba0a017f0b08e888ff08b5104"
+hash = "b3685b9962a2af90f9b7742ec11b48bb9e0c0899f9280f9cd6bb72bb6a63694c"
 metafile = true
 
 [[files]]
@@ -7614,7 +7614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-bakery.pw.toml"
-hash = "f51dfd1faae2265e3604d4876b65eb391b577bb2a0a89ff4a6e3aadd4b2dd2dc"
+hash = "3c7b71982e1eb080d6cac898024e6fc8c9b8f63d5245863e4f2092b6e436f99a"
 metafile = true
 
 [[files]]
@@ -7669,17 +7669,17 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "b5140a3f086552bddd0675bec15ff4d46352c9df22aa03bedbc9ff333504d850"
+hash = "8912d2be8a63a1e43410e8582abed3e660a35977b5edb6dc86b8c9a901e3765f"
 metafile = true
 
 [[files]]
 file = "mods/marvelous-menagerie.pw.toml"
-hash = "e52c6009c66859ba1e6e44d79f1e4bc3f727942362446cdfccc5e41363ecc714"
+hash = "ba285845992543a600fd6cc735ab4554b868c2d8f6d24f4f63e369beaa02e85d"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "386b87e727133a4c9eeed36af36b839d4fd0c761fd180695e863aaaaf0a4d926"
+hash = "97a03bea8346864bd967e6457a0f57a046fb2c1adc8b49de2ee452335c77b96d"
 metafile = true
 
 [[files]]
@@ -7709,7 +7709,7 @@ metafile = true
 
 [[files]]
 file = "mods/narutoto-ninja-world.pw.toml"
-hash = "297f117aa884b6342cd55b1a1907dccac5af3fc422cf8b6739dd5a3bd5eb01b5"
+hash = "a08905771e644a101f16b8312e6e7adf1acfe46237406cf5587cf53ad913520b"
 metafile = true
 
 [[files]]
@@ -7719,7 +7719,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbc-heroes.pw.toml"
-hash = "7923366eaa0cfff1fd4bebf7775f8bcf4667d9491deae33e231ea1a4daaf60a7"
+hash = "fc517d989ff664d5f4da404fcd1ee7e569df0fadb8cd4458355094f361aebdcd"
 metafile = true
 
 [[files]]
@@ -7874,7 +7874,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry-addon-toolkit.pw.toml"
-hash = "95d9e4cd46b440d44dbde4828d4f2d98ceda86b6030941bd25cbf695351ac11a"
+hash = "2e3f1cf07425be9fac963fe238876e493b2421d9f30adfb16797fb35a500b6dd"
 metafile = true
 
 [[files]]
@@ -7884,7 +7884,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "647cf4e86fb7513c467c3fa741ad5a50d1bd566f1a0bd8bfc69bde6c9c85f511"
+hash = "cf44d6404649ba26183e0c6bd86575e160d36a0fc38caa276f9c4f90e6ec8045"
 metafile = true
 
 [[files]]
@@ -7964,7 +7964,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "4de745bf044302b2fe9eadfbe9c4bbd2db9c8d8d6e486a8bbffa9858632ef9b6"
+hash = "bd82f1cc04d24400bef737273eec8615355fa54d5fee3038ffa6af8e59c849c2"
 metafile = true
 
 [[files]]
