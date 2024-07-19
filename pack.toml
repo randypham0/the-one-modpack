@@ -1,12 +1,12 @@
 name = "THE_ONE"
 author = "j"
-version = "1.0.0"
+version = "1.0.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ac8892de32d00ea3a28722baf176bd6b3dc6045c405e8d0cea0b293e90e00dc"
+hash = "55aa63096ae90870164d655fd9e26b709ea1cf6d64828803194311b541179211"
 
 [versions]
 forge = "47.3.0"
