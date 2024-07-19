@@ -7688,11 +7688,6 @@ hash = "2b3bffa98d853ebd185e850bf79fa710a87825b0cb4a3b6517b76f7bfe85ef64"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
-metafile = true
-
-[[files]]
 file = "mods/more-jellyfish.pw.toml"
 hash = "085fe35426604ffbd124f8dcdf30e2f38c3667704c93a5c0cb2c8ed12614e99c"
 metafile = true
