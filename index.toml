@@ -18,7 +18,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/alexscaves-client.toml"
-hash = "2c85113e042e886a2cdd264ea280c69bca594c220ea33fecabef69193558d639"
+hash = "40a65fa13a7b5f5d9e22b2f91e2d8d319721408ba7eb793de2da511096ff0fb4"
 
 [[files]]
 file = "config/alexscaves-general.toml"
@@ -6683,6 +6683,11 @@ metafile = true
 [[files]]
 file = "mods/darwin-iv-mod.pw.toml"
 hash = "60c75c876efb9b6d72d49bba3cc40c2931a1ecf7f26ceb555f16f2552af02006"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "6dc6226c9c9cb735ff22afaede63397e4f247a7afac965b3b1ad521ac792e6a8"
 metafile = true
 
 [[files]]
