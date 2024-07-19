@@ -6631,6 +6631,16 @@ hash = "25e90157d6275c4098fb56aa6c2e6f38997d1a3d1b6a2d0a391b8943714f13f2"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "1834c0180f9f41dd3ec57776cc9ee30cf93ddcb1adf16c04aed46eab677378ea"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "cde5dc8b71f5e21aee8b5bef53ba1ecb0050a98aae8997a3e3ce1221cca85c1f"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "cc6024c02ab4cfcadea22833dd439456f726a23525d05ef2dfde0bb5e2d541af"
 metafile = true
