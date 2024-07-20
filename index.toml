@@ -7843,11 +7843,6 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
-file = "mods/my-hero-craft-mhc.pw.toml"
-hash = "dac74a40e4ca91e7c59763cdf538132000fc0684adf9068d60aaeef7aadb27b8"
-metafile = true
-
-[[files]]
 file = "mods/narutoto-ninja-world.pw.toml"
 hash = "a08905771e644a101f16b8312e6e7adf1acfe46237406cf5587cf53ad913520b"
 metafile = true
