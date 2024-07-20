@@ -1,13 +1,13 @@
-name = "Clockwork: Create x Valkyrien Skies"
-filename = "clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar"
+name = "Clockwork"
+filename = "clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/84USeAvk/versions/Bk2kwZr0/clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar"
 hash-format = "sha1"
-hash = "87cfbbe497ed75f2e02ecccafeb99915352bb30e"
-mode = "metadata:curseforge"
+hash = "8005a91686ddd2197668d2a5fa41d7f7247273de"
 
 [update]
-[update.curseforge]
-file-id = 5171534
-project-id = 807792
+[update.modrinth]
+mod-id = "84USeAvk"
+version = "Bk2kwZr0"
