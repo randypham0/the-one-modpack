@@ -7717,6 +7717,11 @@ hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
 metafile = true
 
 [[files]]
+file = "mods/ldlib.pw.toml"
+hash = "92a104bc359b32c797c4bc590afa8cad014b1812bb6db0d509c3ff58b25a44cc"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "07b988cf27e9fc69a41dd5850f693bc73647ea48b4f8ed5f2e176d26c0e25f76"
 metafile = true
@@ -7788,7 +7793,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "8912d2be8a63a1e43410e8582abed3e660a35977b5edb6dc86b8c9a901e3765f"
+hash = "58a0253fd1d136b9d17855caf660c96c722afe7f5bc750eaf58d71b1d42b8b06"
 metafile = true
 
 [[files]]
