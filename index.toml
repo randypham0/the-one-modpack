@@ -7799,7 +7799,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "8912d2be8a63a1e43410e8582abed3e660a35977b5edb6dc86b8c9a901e3765f"
+hash = "58a0253fd1d136b9d17855caf660c96c722afe7f5bc750eaf58d71b1d42b8b06"
 metafile = true
 
 [[files]]
@@ -7989,7 +7989,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14134e708ec8e9bee6329df46e188b33a07ed86cff9657a597f53def05cb15df"
+hash = "84298e5c4783b70dd8ea6abdda79b67b12a584f7420f6e72bbb5f91ea7875b35"
 metafile = true
 
 [[files]]
@@ -7999,7 +7999,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "035c93d585206bfc42a87670d84be808ed6ca38be2056c45e760a0854e503fa4"
+hash = "a3ae08667e5889d17f6b9cb393de1cf4adee06edce65cc784e2393a686ab810b"
 metafile = true
 
 [[files]]
