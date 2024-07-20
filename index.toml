@@ -6486,11 +6486,6 @@ hash = "2942989f192d9af284af51d455e5e1adeafb8bcdbb3782ab832acbab98236940"
 metafile = true
 
 [[files]]
-file = "mods/astemirlib.pw.toml"
-hash = "d6906b0d1707c6b1abec9205475a9c5186993a30ee383ada6f7f859a9f71a6a5"
-metafile = true
-
-[[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
@@ -7553,11 +7548,6 @@ hash = "c5700a9705527413ed9aac2b2264ca55938782bd37730a5fbc5a11cf057dfde4"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
-metafile = true
-
-[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
 metafile = true
@@ -8165,26 +8155,6 @@ metafile = true
 [[files]]
 file = "mods/unusual-prehistory-forge.pw.toml"
 hash = "cfc07fdc98b9a2ca6d7b6422c29b639904961de5d49c502f33e811ed4bd1ca27"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "d6dba084cfb0773a5124746e8baee0197fa0f6391c10da1bdafdb7c35803ac4b"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "9f2c16f52891ba7d1442115421baaedc93a0bff1b7288311a8ac4a48cdf6f180"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
