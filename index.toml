@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e8a8ea4cc632350877867cc651a4c372347a6ae0571cfba384923aae0e22454e"
+
+[[files]]
 file = "config/aether-client.toml"
 hash = "b2b231af836cfbd1f3a3ff1baa55a58ca4591d5d93d449e6267a6bfc3a85540a"
 
@@ -6633,11 +6637,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "9cd251a37680c6648f56c0fade3f9afb15b25adde0ce5d7cc238f6efd049afaf"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "94714097a323468448daf3ad97cbec4a8e145ddc6e58081b9fcb0ca53be71df1"
 metafile = true
 
 [[files]]
