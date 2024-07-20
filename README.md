@@ -27,3 +27,7 @@ Valkyrien Skies and related mods do not work with the server, so they are/will b
 
 Some mods have to be installed manually. This is unavoidable, but the launcher provides a link to the mod page(s).
 
+
+# Other stuff
+
+Thanks to packwiz for creating [packwiz](https://github.com/packwiz/packwiz) tool and making modpacks easy.
