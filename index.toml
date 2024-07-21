@@ -6621,7 +6621,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "bdc5d0c97d71d57111e3d59d48062035567efd74b25d4155e223ffe8e5a6d5f1"
+hash = "a678f13d916475b068db2d6ee53e58713f2eb8bebf7cd728c52c45107596f08a"
 metafile = true
 
 [[files]]
@@ -7718,7 +7718,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "92a104bc359b32c797c4bc590afa8cad014b1812bb6db0d509c3ff58b25a44cc"
+hash = "6eda65063fce83d184e20e1b1d41a05ff133d25605bc89f8fd0dcc015a983615"
 metafile = true
 
 [[files]]
@@ -7808,7 +7808,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "97a03bea8346864bd967e6457a0f57a046fb2c1adc8b49de2ee452335c77b96d"
+hash = "2545c33de6de70ce0cd230b7c6998f171a0ac4f7dfa72755852b70d8458f4074"
 metafile = true
 
 [[files]]
