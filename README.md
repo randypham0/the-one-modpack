@@ -27,6 +27,10 @@ Valkyrien Skies and related mods do not work with the server, so they are/will b
 
 Some mods have to be installed manually. This is unavoidable, but the launcher provides a link to the mod page(s).
 
+[Create: Design n' Decor](https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor)  
+[The Digimod](https://www.curseforge.com/minecraft/mc-mods/the-digimod-beta)  
+[Entity Culling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling)  
+[Prime Punch | One Punch](https://www.curseforge.com/minecraft/mc-mods/prime-punch-one-punch-mod)  
 
 # Other stuff
 
