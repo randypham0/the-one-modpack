@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e8a8ea4cc632350877867cc651a4c372347a6ae0571cfba384923aae0e22454e"
+hash = "bc65f59430aceb2ae0486368b07d225a72f8350b7f44d3c7c0035fe23d7ea414"
 
 [[files]]
 file = "config/aether-client.toml"
