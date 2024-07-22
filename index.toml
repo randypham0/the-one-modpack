@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "bc65f59430aceb2ae0486368b07d225a72f8350b7f44d3c7c0035fe23d7ea414"
-
-[[files]]
 file = "config/aether-client.toml"
 hash = "b2b231af836cfbd1f3a3ff1baa55a58ca4591d5d93d449e6267a6bfc3a85540a"
 
