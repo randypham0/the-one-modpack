@@ -21,6 +21,11 @@ hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "c9a1b8b06cb1cdceeea4dff51db30f91d682bfadae03917fd73bb5ec0ebc833e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
 metafile = true
 
 [[files]]
@@ -61,6 +71,11 @@ hash = "874e588d5dc10d1c2a1789bb4151bc17656e3a5ad23fc3b3d3363b96e635d763"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "1a39118934239eb4c2698fb6d64f431a16217becc0f8cd8c2756d5a8f45b18aa"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -68,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
@@ -88,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "060760770ff9523f85467d066f73b2dbf8f03abadbf57dbdaaa98b92bce8d92b"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
 metafile = true
 
 [[files]]
@@ -116,6 +146,11 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
@@ -123,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
+metafile = true
+
+[[files]]
+file = "mods/narutoto-ninja-world.pw.toml"
+hash = "a08905771e644a101f16b8312e6e7adf1acfe46237406cf5587cf53ad913520b"
+metafile = true
+
+[[files]]
+file = "mods/nbc-heroes.pw.toml"
+hash = "fc517d989ff664d5f4da404fcd1ee7e569df0fadb8cd4458355094f361aebdcd"
 metafile = true
 
 [[files]]
@@ -146,8 +191,28 @@ hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
+file = "mods/sorceryfight.pw.toml"
+hash = "2fea1fcf46c57bc3e65426d0c1e3a97da1fc6642ad9f89923ca949b972e8ace2"
 metafile = true
 
 [[files]]
@@ -158,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/threetag-palladium.pw.toml"
+hash = "15c181fce176dd4c0338ce70d91d5c725aea26005c55e24a596ccbd2c3957875"
 metafile = true
 
 [[files]]
