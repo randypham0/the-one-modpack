@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
+hash = "9f547ab30cc07d0831d0a066032a832dcb16dd7a5aa77c4c7efeaa29d8c10431"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e48eac92ec76ee73121cb63aa1550c244aced08622b8291efc31c360e3b943dd"
+hash = "fbbdb4e21f56c70ad71fde4c137cee08109f7a7ff00d245bef68e6dbb800e9e9"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
+hash = "874e588d5dc10d1c2a1789bb4151bc17656e3a5ad23fc3b3d3363b96e635d763"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
 metafile = true
 
 [[files]]
@@ -182,17 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.pw.toml"
-hash = "4c48c18ab5ac0de141802198fa119eb75259ba2ad44de0447f579700cdf3011a"
+hash = "d9a6e1c2bdd0d73a27143d7277c2e267e079ebcc7bfabee95842304c1e60595b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d7c59d391361b917e0ba2f0a59a641591686c6995b4b9e6f5ac0fc7e6b95e4f4"
+hash = "ca836b4a0035469768d4e1b8b0b3cb408ba58971e3760c877bb98a494f74d12f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9d60c8dd6456b72a8c7b10b052c8945d8904edf070b35d2ca67b9d83d1b2158"
+hash = "15cc97e2678f44c2a5274989da624c6c4d3ef0fed497c5482d6c82a2d107083e"
 metafile = true
 
 [[files]]
