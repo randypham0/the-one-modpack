@@ -1,12 +1,12 @@
-name = "THE_ONE"
-author = "j"
-version = "1.0.13"
+name = "The One Modpack"
+author = "rj"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "da5ec24e52c79cd6494feed70fb2d5c150a0ce2f5fd706efcc2cd76b10009173"
+hash = "af1aa6a3832bd41cd69f7dcb39ec3db391f358ad2cada95e1dc96916e7928e82"
 
 [versions]
 forge = "47.3.0"

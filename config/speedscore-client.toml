@@ -1,6 +1,0 @@
-
-["Level Manipulator"]
-	#Set whether or not the level manipulator should render particles when destroying blocks.
-	#By default : true
-	should_render_destroyed_blocks_particles = true
-
