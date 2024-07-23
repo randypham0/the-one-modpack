@@ -6,6 +6,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "e48eac92ec76ee73121cb63aa1550c244aced08622b8291efc31c360e3b943dd"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -23,6 +28,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3adf8ad51adec86387a7243f518d3a33f412c2bb46508351ac724f496768ac2a"
 metafile = true
 
 [[files]]
