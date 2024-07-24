@@ -55,6 +55,11 @@ hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
+file = "mods/charging-gadgets.pw.toml"
+hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "b344591cc2489cb65880f43e38362c2d3719e630e39ce9553ea12beb3d901034"
 metafile = true
