@@ -200,6 +200,11 @@ hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
@@ -277,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
