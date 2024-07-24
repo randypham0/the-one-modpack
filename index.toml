@@ -270,6 +270,11 @@ hash = "2fea1fcf46c57bc3e65426d0c1e3a97da1fc6642ad9f89923ca949b972e8ace2"
 metafile = true
 
 [[files]]
+file = "mods/souls-like-universe.pw.toml"
+hash = "ae5caeb3d33113d231e0322a48a1982ddc8b76b73f21887a8e77e19819993af3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
