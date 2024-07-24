@@ -300,6 +300,11 @@ hash = "ff3fc207c797fa1db17c0b5119114bbfefde0186d43f52bda825fbe29e907885"
 metafile = true
 
 [[files]]
+file = "mods/weapons-of-miracles-epicfight.pw.toml"
+hash = "57d06da027395283c1c0a813c6854c2053743ba753024ae490cc08fff7e4ff74"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "ca836b4a0035469768d4e1b8b0b3cb408ba58971e3760c877bb98a494f74d12f"
 metafile = true
