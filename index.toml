@@ -300,6 +300,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/the-digimod.pw.toml"
+hash = "363717e8993f70fd61d3024bbec6924e936213fae215060673b014f46f131df3"
+metafile = true
+
+[[files]]
 file = "mods/threetag-palladium.pw.toml"
 hash = "9e922b02d6435069f8e5d980c279df3e38bcc9b96f5d652cd9d6b366044ffa77"
 metafile = true

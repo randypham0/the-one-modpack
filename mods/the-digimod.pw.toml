@@ -1,0 +1,13 @@
+name = "The Digimod"
+filename = "The_Digimod-BETA-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YEZBvWbe/versions/jkzvWfXa/The_Digimod-BETA-1.6.2.jar"
+hash-format = "sha1"
+hash = "4b5cb14e939492fbfb22af2e7769b3626d4c6ff2"
+
+[update]
+[update.modrinth]
+mod-id = "YEZBvWbe"
+version = "jkzvWfXa"
