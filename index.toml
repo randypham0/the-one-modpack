@@ -305,6 +305,11 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructuresreforged.pw.toml"
+hash = "ec6404fb9911de7e67397daa1cc3273d514937a10bfa08ef32ab03b3150d0276"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
 metafile = true
