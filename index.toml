@@ -205,6 +205,11 @@ hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "1ff63ae9b415edabfe8467d67dcd412169b05582ae26c40d6bb6aae7b8809ccb"
+metafile = true
+
+[[files]]
 file = "mods/narutoto-ninja-world.pw.toml"
 hash = "a08905771e644a101f16b8312e6e7adf1acfe46237406cf5587cf53ad913520b"
 metafile = true
