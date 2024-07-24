@@ -250,6 +250,11 @@ hash = "b67788df2948db7f4aa69bb01ad539d4d54e5f1f823ed6d6bfaf2949cf972518"
 metafile = true
 
 [[files]]
+file = "mods/marvelous-menagerie.pw.toml"
+hash = "d0765e06eead93fc547a54c32d4abf5702fff50c44b20fb19186b04f1a8db0d1"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c1afff20462c9e2100ac2ba31ac71e9d235608efde7997e3f3f07a2241c6d3bf"
 metafile = true
@@ -452,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
+metafile = true
+
+[[files]]
+file = "mods/unusual-prehistory-forge.pw.toml"
+hash = "cfc07fdc98b9a2ca6d7b6422c29b639904961de5d49c502f33e811ed4bd1ca27"
 metafile = true
 
 [[files]]
