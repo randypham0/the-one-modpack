@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexscaves-client.toml"
+hash = "95e3f9138a050364460c1983ab45b17ee760e85f57226dadc653f15308482192"
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "ec436a1f3378f8bd08ccd02e0ee74c441ff51d73bb62d446f6123eb2d6ebed6b"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -58,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
