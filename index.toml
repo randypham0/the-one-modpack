@@ -305,6 +305,11 @@ hash = "9e922b02d6435069f8e5d980c279df3e38bcc9b96f5d652cd9d6b366044ffa77"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
