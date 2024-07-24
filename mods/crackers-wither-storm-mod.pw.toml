@@ -1,0 +1,13 @@
+name = "Cracker's Wither Storm Mod"
+filename = "witherstormmod-1.20.1-4.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3f3fbbf70c7360f07341a7dafc0649b04c8563b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5331898
+project-id = 621405
