@@ -435,6 +435,11 @@ hash = "9e922b02d6435069f8e5d980c279df3e38bcc9b96f5d652cd9d6b366044ffa77"
 metafile = true
 
 [[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "f888963ae45477f223a86386989d6928cb9541750a76388a365437d98242c76d"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
