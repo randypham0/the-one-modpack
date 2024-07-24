@@ -1,0 +1,13 @@
+name = "Epic Fight x JujutsuCraft compatability"
+filename = "EpicJujutsuVer39.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1dad5ee5bc59efdf90186b17ce1979a925adc93"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5510166
+project-id = 994606

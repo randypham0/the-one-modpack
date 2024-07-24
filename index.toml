@@ -115,8 +115,18 @@ hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight-guandao-moveset.pw.toml"
+hash = "43817c2c66b37708532714479b25583dde57707f67ac76c1d2fe2bad0f42e1ce"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight-mod.pw.toml"
 hash = "1a39118934239eb4c2698fb6d64f431a16217becc0f8cd8c2756d5a8f45b18aa"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight-x-jujutsucraft-compatability-mod.pw.toml"
+hash = "4031a3c2faf92f8ce34f43846584a0d6a4d481e535f76db4a19b407bf6d93649"
 metafile = true
 
 [[files]]
