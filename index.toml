@@ -285,6 +285,11 @@ hash = "6f8946994c8a74fc8e2370260b57e95c85e475e180d19f57f00dbadcaa5185ae"
 metafile = true
 
 [[files]]
+file = "mods/sky-villages-forge.pw.toml"
+hash = "8a2bb37831521a06e723796797baa606c121a721f9e86f4aae4c7ce4ba8a8ea1"
+metafile = true
+
+[[files]]
 file = "mods/sorceryfight.pw.toml"
 hash = "2fea1fcf46c57bc3e65426d0c1e3a97da1fc6642ad9f89923ca949b972e8ace2"
 metafile = true
