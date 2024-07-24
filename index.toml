@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "874e588d5dc10d1c2a1789bb4151bc17656e3a5ad23fc3b3d3363b96e635d763"
+hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
@@ -251,8 +251,8 @@ hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "d9a6e1c2bdd0d73a27143d7277c2e267e079ebcc7bfabee95842304c1e60595b"
+file = "mods/wavey-capes.pw.toml"
+hash = "ff3fc207c797fa1db17c0b5119114bbfefde0186d43f52bda825fbe29e907885"
 metafile = true
 
 [[files]]

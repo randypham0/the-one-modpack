@@ -3,11 +3,11 @@ filename = "waveycapes-forge-1.4.8-mc1.20.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/9igp6O6l/waveycapes-forge-1.4.8-mc1.20.1.jar"
 hash-format = "sha1"
 hash = "81baf7e9c46dac00275edd068db4e769002210ce"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5499484
-project-id = 521594
+[update.modrinth]
+mod-id = "kYuIpRLv"
+version = "9igp6O6l"
