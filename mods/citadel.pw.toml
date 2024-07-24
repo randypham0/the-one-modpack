@@ -3,11 +3,11 @@ filename = "citadel-2.5.6-1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/jJfV67b1/versions/lAATACbp/citadel-2.5.6-1.20.1.jar"
 hash-format = "sha1"
 hash = "617da008667b182a112ad2a3607e6641593a8f5f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5559513
-project-id = 331936
+[update.modrinth]
+mod-id = "jJfV67b1"
+version = "lAATACbp"
