@@ -250,6 +250,11 @@ hash = "59651a5bb131e81859c3b519c7da081b3c442005e83e5a13cff219e9e1b08885"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
@@ -317,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "062b36fa54e484fee015166ef079250338bee18ad3f2eabd74689e12df102729"
 metafile = true
 
 [[files]]
