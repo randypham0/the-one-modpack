@@ -95,6 +95,11 @@ hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "ec5b452599201804f40e6a9f4549849065b8428d5b046bd0638f9897e1e4b72c"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
@@ -312,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/shrines.pw.toml"
 hash = "6f8946994c8a74fc8e2370260b57e95c85e475e180d19f57f00dbadcaa5185ae"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0f497918229968f782522446548e80f18d02f92641328db0548354ff5075f68f"
 metafile = true
 
 [[files]]
