@@ -85,11 +85,6 @@ hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
-file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "28028d592576a1959802bdac16e2c4b94af29616e18747631adc6049316df84c"
-metafile = true
-
-[[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "9b9494ddf3d98305013d85c7081c6e172c26d75b90cc01393332db45f8423c89"
 metafile = true
