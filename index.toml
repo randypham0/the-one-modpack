@@ -340,6 +340,11 @@ hash = "026acc060ccb0a4e5509d64ef0a0ea884d350e70a15c361e4fe99824a82c158b"
 metafile = true
 
 [[files]]
+file = "mods/riskofrain-mobs.pw.toml"
+hash = "f6519ac457862557732ac843a921c406bd2aca0b8097150b400fbe02f3cdc70e"
+metafile = true
+
+[[files]]
 file = "mods/shrines.pw.toml"
 hash = "6f8946994c8a74fc8e2370260b57e95c85e475e180d19f57f00dbadcaa5185ae"
 metafile = true
