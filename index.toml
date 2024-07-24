@@ -275,6 +275,11 @@ hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
+file = "mods/shrines.pw.toml"
+hash = "6f8946994c8a74fc8e2370260b57e95c85e475e180d19f57f00dbadcaa5185ae"
+metafile = true
+
+[[files]]
 file = "mods/sorceryfight.pw.toml"
 hash = "2fea1fcf46c57bc3e65426d0c1e3a97da1fc6642ad9f89923ca949b972e8ace2"
 metafile = true
