@@ -380,6 +380,26 @@ hash = "ec6404fb9911de7e67397daa1cc3273d514937a10bfa08ef32ab03b3150d0276"
 metafile = true
 
 [[files]]
+file = "mods/spartan-shields.pw.toml"
+hash = "866baca6c0bd619c207a372afb52b4ea99dc06f435f02fdf3363ddb7eef8342e"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-addon-toolkit.pw.toml"
+hash = "2e3f1cf07425be9fac963fe238876e493b2421d9f30adfb16797fb35a500b6dd"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-ice-and-fire.pw.toml"
+hash = "739b47147a58f0eea0225b91703fda6e160effb3315cf5fc70e1110b94dd0bf6"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "cf44d6404649ba26183e0c6bd86575e160d36a0fc38caa276f9c4f90e6ec8045"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "cf933a82aef5731f465dc66028144cd3c52be44287203fd5692e874655841534"
 metafile = true
