@@ -280,6 +280,11 @@ hash = "a08905771e644a101f16b8312e6e7adf1acfe46237406cf5587cf53ad913520b"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
+metafile = true
+
+[[files]]
 file = "mods/nbc-heroes.pw.toml"
 hash = "fc517d989ff664d5f4da404fcd1ee7e569df0fadb8cd4458355094f361aebdcd"
 metafile = true
