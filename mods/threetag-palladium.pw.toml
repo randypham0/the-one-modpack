@@ -1,13 +1,13 @@
-name = "Palladium 🐿️"
+name = "Palladium"
 filename = "palladium-4.1.4+1.20.1-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lt2zd42r/versions/vy2SgdN2/palladium-4.1.4%2B1.20.1-forge.jar"
 hash-format = "sha1"
 hash = "454e769db4cc34148c69872291cc1207b12cebef"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5480457
-project-id = 963363
+[update.modrinth]
+mod-id = "lt2zd42r"
+version = "vy2SgdN2"

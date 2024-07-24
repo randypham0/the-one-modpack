@@ -1,0 +1,13 @@
+name = "PantheonSent"
+filename = "pantheonsent-1.1.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SIKMQqt0/versions/fZfYWj2t/pantheonsent-1.1.0%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "ec6916a5fe5c9406584406c6c4693eac89f1d818"
+
+[update]
+[update.modrinth]
+mod-id = "SIKMQqt0"
+version = "fZfYWj2t"

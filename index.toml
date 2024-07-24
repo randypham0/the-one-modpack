@@ -240,6 +240,11 @@ hash = "474dd6a81481186c4882544b6a7cfcae4cdad8b6d9098d2942e50c70a04a4100"
 metafile = true
 
 [[files]]
+file = "mods/pantheonsent.pw.toml"
+hash = "59651a5bb131e81859c3b519c7da081b3c442005e83e5a13cff219e9e1b08885"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
@@ -276,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/threetag-palladium.pw.toml"
-hash = "15c181fce176dd4c0338ce70d91d5c725aea26005c55e24a596ccbd2c3957875"
+hash = "9e922b02d6435069f8e5d980c279df3e38bcc9b96f5d652cd9d6b366044ffa77"
 metafile = true
 
 [[files]]
