@@ -150,21 +150,6 @@ hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-guandao-moveset.pw.toml"
-hash = "43817c2c66b37708532714479b25583dde57707f67ac76c1d2fe2bad0f42e1ce"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-mod.pw.toml"
-hash = "1a39118934239eb4c2698fb6d64f431a16217becc0f8cd8c2756d5a8f45b18aa"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-x-jujutsucraft-compatability-mod.pw.toml"
-hash = "4031a3c2faf92f8ce34f43846584a0d6a4d481e535f76db4a19b407bf6d93649"
-metafile = true
-
-[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
@@ -415,11 +400,6 @@ hash = "2fea1fcf46c57bc3e65426d0c1e3a97da1fc6642ad9f89923ca949b972e8ace2"
 metafile = true
 
 [[files]]
-file = "mods/souls-like-universe.pw.toml"
-hash = "ae5caeb3d33113d231e0322a48a1982ddc8b76b73f21887a8e77e19819993af3"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
@@ -532,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ff3fc207c797fa1db17c0b5119114bbfefde0186d43f52bda825fbe29e907885"
-metafile = true
-
-[[files]]
-file = "mods/weapons-of-miracles-epicfight.pw.toml"
-hash = "57d06da027395283c1c0a813c6854c2053743ba753024ae490cc08fff7e4ff74"
 metafile = true
 
 [[files]]
