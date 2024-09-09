@@ -1,13 +1,13 @@
 name = "Risk of Rain Mobs"
-filename = "riskofrain_mobs-1.20.1-1.1.2.jar"
+filename = "riskofrain_mobs-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cea7fd46affa0d1584f7d566b05b19dbf3f6e68b"
+hash = "3225f6eed29a8161ec48c0c86c2933ccb845c935"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4687219
+file-id = 5663700
 project-id = 406824
