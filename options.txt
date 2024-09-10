@@ -296,7 +296,7 @@ key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.r
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.irons_spellbooks.spell_wheel:key.keyboard.r
-key_key.irons_spellbooks.spellbook_cast:key.keyboard.v
+key_key.irons_spellbooks.spellbook_cast:key.keyboard.g
 key_key.irons_spellbooks.spell_bar_modifier:key.keyboard.left.shift
 key_key.irons_spellbooks.spell_quick_cast_1:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_2:key.keyboard.unknown
