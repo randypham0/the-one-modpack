@@ -439,13 +439,18 @@ hash = "07d1ecd9089ec38db159d87add5e1b7834ef996260736ff1c3255cc943a86acf"
 metafile = true
 
 [[files]]
+file = "mods/ssr.pw.toml"
+hash = "d5e2b0fca96fdb3143aea55530d3fb1891ab228afdd9d2778473d546e8c1f8c8"
+metafile = true
+
+[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "cd1f98dbee7f114d59259fcf0c31028b0e23e41e16baaf77370aca1efb7a3989"
 metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
+hash = "fd3d76e442d46444722e2a38eda6b1bd49fd23e874bb3b08c42ccf316d053431"
 metafile = true
 
 [[files]]
