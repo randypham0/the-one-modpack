@@ -524,6 +524,11 @@ hash = "71be477b6c9fd252a7f2c9924e79b8512554e40413cdd3d69cbf493761c29ee5"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "ba625f88153b60f038998bae988446b21efe59119dab92d15e3f50411792827a"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "f2d2b0e85e14e3343c9bac2b282ee406cfd53e8d160a0f488859e5e363f572db"
 metafile = true
