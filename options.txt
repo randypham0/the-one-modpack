@@ -209,8 +209,8 @@ key_key.narutoto.substitution_key:key.keyboard.unknown
 key_key.narutoto.attribute_board_key:key.keyboard.k
 key_key.narutoto.switch_type_upk:key.keyboard.right
 key_key.narutoto.switch_type_down_k:key.keyboard.left
-key_key.jujutsucraft.key_change_technique:key.mouse.4
-key_key.jujutsucraft.key_start_technique:key.mouse.5
+key_key.jujutsucraft.key_change_technique:key.keyboard.r
+key_key.jujutsucraft.key_start_technique:key.keyboard.z
 key_key.jujutsucraft.key_simple_domain:key.keyboard.g
 key_key.jujutsucraft.key_reset_technique:key.keyboard.x
 key_key.jujutsucraft.key_reverse_cursed_technique:key.keyboard.m
