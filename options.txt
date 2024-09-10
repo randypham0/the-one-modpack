@@ -148,7 +148,7 @@ key_key.cobblemon.hideparty:key.keyboard.o
 key_key.cobblemon.summary:key.keyboard.c:CONTROL
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
-key_key.cobblemon.throwpartypokemon:key.keyboard.r
+key_key.cobblemon.throwpartypokemon:key.keyboard.t:CONTROL
 key_key.spartanweaponry.access_quiver:key.keyboard.i
 key_key.marvelous_menagerie.ophthalmoSwimDown:key.keyboard.x
 key_key.wi_zoom.zoom:key.keyboard.z
