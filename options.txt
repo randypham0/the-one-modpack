@@ -145,7 +145,7 @@ key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.armor_ability:key.keyboard.y
 key_key.curios.open.desc:key.keyboard.g
 key_key.cobblemon.hideparty:key.keyboard.o
-key_key.cobblemon.summary:key.keyboard.m
+key_key.cobblemon.summary:key.keyboard.c:CONTROL
 key_key.cobblemon.downshiftparty:key.keyboard.down
 key_key.cobblemon.upshiftparty:key.keyboard.up
 key_key.cobblemon.throwpartypokemon:key.keyboard.r
