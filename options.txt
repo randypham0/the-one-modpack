@@ -212,7 +212,7 @@ key_key.narutoto.switch_type_upk:key.keyboard.right
 key_key.narutoto.switch_type_down_k:key.keyboard.left
 key_key.jujutsucraft.key_change_technique:key.keyboard.r
 key_key.jujutsucraft.key_start_technique:key.keyboard.z
-key_key.jujutsucraft.key_simple_domain:key.keyboard.g
+key_key.jujutsucraft.key_simple_domain:key.keyboard.unknown
 key_key.jujutsucraft.key_reset_technique:key.keyboard.x
 key_key.jujutsucraft.key_reverse_cursed_technique:key.keyboard.m
 key_key.jujutsucraft.key_backstep:key.keyboard.s
