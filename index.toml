@@ -369,11 +369,6 @@ hash = "026acc060ccb0a4e5509d64ef0a0ea884d350e70a15c361e4fe99824a82c158b"
 metafile = true
 
 [[files]]
-file = "mods/riskofrain-mobs.pw.toml"
-hash = "ea2fa202abd72d47908a14bee6553615b0c0b42a84d0ea23128715bb695b10bb"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "ff97b9c874da4ab0a4f9849c5914b0dba697306eb1ac9fb251b75dec876791cc"
 metafile = true
