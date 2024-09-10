@@ -5,6 +5,10 @@ file = "config/alexscaves-client.toml"
 hash = "95e3f9138a050364460c1983ab45b17ee760e85f57226dadc653f15308482192"
 
 [[files]]
+file = "config/badmobs-common.toml"
+hash = "96e55a7f71ddb441cccb249c10d7b59d540fe05ebbeb2779e2778c3d68494278"
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
 metafile = true
