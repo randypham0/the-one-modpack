@@ -143,7 +143,7 @@ key_key.paraglider.paragliderSettings:key.keyboard.p:CONTROL
 key_key.corpse.death_history:key.keyboard.u
 key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.armor_ability:key.keyboard.y
-key_key.curios.open.desc:key.keyboard.g
+key_key.curios.open.desc:key.keyboard.unknown
 key_key.cobblemon.hideparty:key.keyboard.o
 key_key.cobblemon.summary:key.keyboard.c:CONTROL
 key_key.cobblemon.downshiftparty:key.keyboard.down
