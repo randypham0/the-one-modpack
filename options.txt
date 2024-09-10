@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -199,9 +199,9 @@ key_key.travelersbackpack.sort:key.keyboard.unknown
 key_key.travelersbackpack.ability:key.keyboard.unknown
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
-key_key.narutoto.change_justu_up:key.keyboard.x
-key_key.narutoto.change_justu_down:key.keyboard.c
-key_key.narutoto.release_justu:key.keyboard.z
+key_key.narutoto.change_justu_up:key.keyboard.c
+key_key.narutoto.change_justu_down:key.keyboard.x
+key_key.narutoto.release_justu:key.keyboard.x:CONTROL
 key_key.narutoto.big_jump:key.keyboard.v
 key_key.narutoto.open_sharingan:key.keyboard.unknown
 key_key.narutoto.upgrade_sharingan:key.keyboard.up
