@@ -1,13 +1,13 @@
 name = "Jellyfishing"
-filename = "Jellyfishing-2.0.5.jar"
+filename = "Jellyfishing-2.0.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a587b1ad0d3799ce42cad1a165aa183815b06b3"
+hash = "131d07863c2ff2a67b025335a5abfbb8a9aa2d3d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5368642
+file-id = 5753917
 project-id = 397703

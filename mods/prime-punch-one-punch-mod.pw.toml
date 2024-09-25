@@ -1,13 +1,13 @@
 name = "Prime Punch | One Punch"
-filename = "PrimePunchUpdate0.jar"
+filename = "primepunchpatch.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "af82458201a5a2ad2491f65309302e0169a194d6"
+hash = "39ae5254ca330fed16138fdc8f79586824322ec1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5512854
+file-id = 5635389
 project-id = 953940
