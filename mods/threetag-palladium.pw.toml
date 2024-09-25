@@ -1,13 +1,13 @@
 name = "Palladium"
-filename = "palladium-4.1.4+1.20.1-forge.jar"
+filename = "palladium-4.1.5+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lt2zd42r/versions/vy2SgdN2/palladium-4.1.4%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/lt2zd42r/versions/tnURp1lz/palladium-4.1.5%2B1.20.1-forge.jar"
 hash-format = "sha1"
-hash = "454e769db4cc34148c69872291cc1207b12cebef"
+hash = "fb407709d752f713a8b0ffae10bcd360149bd70f"
 
 [update]
 [update.modrinth]
 mod-id = "lt2zd42r"
-version = "vy2SgdN2"
+version = "tnURp1lz"

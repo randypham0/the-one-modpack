@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/threetag-palladium.pw.toml"
-hash = "9e922b02d6435069f8e5d980c279df3e38bcc9b96f5d652cd9d6b366044ffa77"
+hash = "c226983e96973d495ccf9646ad980449055e932af0e501e64ad3090b1745cdb8"
 metafile = true
 
 [[files]]
