@@ -239,11 +239,6 @@ hash = "c14524cdd59c14fde7cb49e8886d6fd4fe09a5188db483b24a1b12bcf3f7a35e"
 metafile = true
 
 [[files]]
-file = "mods/kleiders-custom-renderer-api.pw.toml"
-hash = "b600a80922af88baad544bb1dafeee0caff49dd4331385144f7ae57c5e920ce0"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -295,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/narutoto-ninja-world.pw.toml"
-hash = "fc70651156c6cb9c35284f9bdc52e6bdde665d1e5b0f0196c8eba9bdc0c0ebbd"
+hash = "2a40fbc721bfd10c20205b8cca83beab76f7c88a2b181eec2ed37937d2a15d06"
 metafile = true
 
 [[files]]
