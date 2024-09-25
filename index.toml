@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry-addon-toolkit.pw.toml"
-hash = "23bb916eb51cec5b0e0d8226c24d1ee11256fc4184ccee14c537d95b26cf16b0"
+hash = "6603dfd663959f9025a744f86078f97f87ad2478ca22367197ad5a0eb6312e4d"
 metafile = true
 
 [[files]]
