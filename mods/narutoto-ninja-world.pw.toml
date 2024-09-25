@@ -1,13 +1,13 @@
 name = "Narutoto: Ninja World"
-filename = "narutoto-0.2.51-forge-1.20.1.jar"
+filename = "narutoto-0.2.62-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e306afc180eb219a63b690a17f1b15b3305b18ca"
+hash = "53f4b447d8b2f5b0fc4e428865cab04cbed28b8e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5705995
+file-id = 5746122
 project-id = 982807
