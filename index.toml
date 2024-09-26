@@ -194,6 +194,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/fsang18s-heropack.pw.toml"
+hash = "950f7bdc123106a336e520f09ff5be7341a3eae26c93bd89847aec7fe0ef48bd"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
 metafile = true
@@ -536,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2cf0210f1aa7080a2070bbd07c17a9f0a7dfa2fed9c3c689fedcf2f9cc3bd871"
+metafile = true
+
+[[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
 
 [[files]]
