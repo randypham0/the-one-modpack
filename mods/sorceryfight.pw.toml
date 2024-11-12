@@ -1,13 +1,13 @@
 name = "Jujutsu Craft (Sorcery Fight)"
-filename = "JujutsuCraft-ver40-forge-1.20.1.jar"
+filename = "JujutsuCraft-ver40.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "856d489b9ead109dd0344677e2d46ccf95343da3"
+hash = "23ec1949741e4fef5968074b24d4f7a3df4a5148"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5655808
+file-id = 5840968
 project-id = 471288
