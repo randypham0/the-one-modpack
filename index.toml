@@ -9,6 +9,11 @@ file = "config/badmobs-common.toml"
 hash = "96e55a7f71ddb441cccb249c10d7b59d540fe05ebbeb2779e2778c3d68494278"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "a5d93cbfe86f018250560cd7160c76daf86bda8c0ac508c0d9db71e38b22361a"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
 metafile = true
@@ -214,6 +219,11 @@ hash = "db32c4fad25d269dbd5360afe504f1fbf7e98db3e89dd538f1a5d19180e7cd68"
 metafile = true
 
 [[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "da298351f03bafc0ca9cff12063d301d06bf1c8d18f096eb0ef18f6988833844"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
 metafile = true
@@ -404,6 +414,11 @@ hash = "8a2bb37831521a06e723796797baa606c121a721f9e86f4aae4c7ce4ba8a8ea1"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "bcf7be0e778dd610089b6b645120cef2d0ecdf6d95b0142d9fdbcb7d42509547"
+metafile = true
+
+[[files]]
 file = "mods/sorceryfight.pw.toml"
 hash = "2fb7662f5409220921f588e666d420f0f06dd5c1653b57e9b3562e57793a7998"
 metafile = true
@@ -496,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "08d36f96cc207c6aaa6dd5014f59c89b00220579f55043789c3a9c0c68cfa2b3"
 metafile = true
 
 [[files]]
