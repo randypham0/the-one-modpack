@@ -164,6 +164,11 @@ hash = "ec5b452599201804f40e6a9f4549849065b8428d5b046bd0638f9897e1e4b72c"
 metafile = true
 
 [[files]]
+file = "mods/demonslayer.pw.toml"
+hash = "51496705cbc77255bc53695e515bdb486b2b58cb221825846eecbdd9aa52638f"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "5955ac62823eacbf9a6d227e3813451b6a14388aa29e9326fdd62e569d159fab"
 metafile = true
