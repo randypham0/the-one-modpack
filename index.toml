@@ -309,11 +309,6 @@ hash = "5d5dfb3bcdd91df00cb89e396b8da4531d42bbff0a537148f3efa12f10b03d8b"
 metafile = true
 
 [[files]]
-file = "mods/mine-piece.pw.toml"
-hash = "d3bdf88c1c95ae5948976af58e271941a5effa2babf97074f8e24753ff9f84ee"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2d05084103715228a9fb89d68e68fdc1f0d78e4a5facc9895d26b3ba0b7fd92f"
 metafile = true
