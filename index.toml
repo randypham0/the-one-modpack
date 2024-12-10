@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/sorceryfight.pw.toml"
-hash = "2fb7662f5409220921f588e666d420f0f06dd5c1653b57e9b3562e57793a7998"
+hash = "1db37c542bd3813a85c019bb02bda979abcb345c7aee91f74f2a2a651d570132"
 metafile = true
 
 [[files]]
