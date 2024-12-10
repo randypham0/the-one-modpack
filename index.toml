@@ -184,6 +184,11 @@ hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-reforged.pw.toml"
+hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
 metafile = true
