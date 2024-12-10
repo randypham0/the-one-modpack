@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "b5628c5ac07e5716de7a6bfe6c77801dbc2bdfde877d6a5656fdcd64235bd737"
+hash = "5bda6fde11d16f775128e701dcf44797e8bfb7da53d34aa93b8314913a35c2e2"
 metafile = true
 
 [[files]]
