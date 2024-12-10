@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "26846a08b074f3bf59f9cbb07e95e616ec96d6e8ccfe101394dcbd4fcbcc1dbe"
+hash = "b5baa9c71008ac4bceb08fbb361209743f25671760e365cfad5abf254e5ad82c"
 metafile = true
 
 [[files]]
