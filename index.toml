@@ -239,6 +239,11 @@ hash = "caf9eb48e4eac66f7659d01896341a9c7d749ce2ddff264305283258c0b3a996"
 metafile = true
 
 [[files]]
+file = "mods/kleiders-custom-renderer-api.pw.toml"
+hash = "b600a80922af88baad544bb1dafeee0caff49dd4331385144f7ae57c5e920ce0"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
