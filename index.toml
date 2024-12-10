@@ -74,6 +74,11 @@ hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
 
 [[files]]
+file = "mods/casinocraft.pw.toml"
+hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
+metafile = true
+
+[[files]]
+file = "mods/lucky77.pw.toml"
+hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
