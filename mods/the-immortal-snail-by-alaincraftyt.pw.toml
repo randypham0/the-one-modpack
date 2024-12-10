@@ -1,0 +1,13 @@
+name = "The Immortal Snail by AlainCraftYT"
+filename = "immortal_snail_alaincraft-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e062c2d34fb59defc85f17a8f24e51fbd1b076f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5250218
+project-id = 983804

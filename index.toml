@@ -459,6 +459,11 @@ hash = "363717e8993f70fd61d3024bbec6924e936213fae215060673b014f46f131df3"
 metafile = true
 
 [[files]]
+file = "mods/the-immortal-snail-by-alaincraftyt.pw.toml"
+hash = "fabd1a88b1ebe016fff5706d655346bbd8f4c3b41a608de4d94a8d6cfe16366f"
+metafile = true
+
+[[files]]
 file = "mods/threetag-palladium.pw.toml"
 hash = "c226983e96973d495ccf9646ad980449055e932af0e501e64ad3090b1745cdb8"
 metafile = true
