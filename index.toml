@@ -389,6 +389,11 @@ hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
@@ -416,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/shrines.pw.toml"
 hash = "6f8946994c8a74fc8e2370260b57e95c85e475e180d19f57f00dbadcaa5185ae"
+metafile = true
+
+[[files]]
+file = "mods/shrink_.pw.toml"
+hash = "bb499bb2efd030f7d1487359492bf1877a799ca009d76a8d8b3c3f89fe0ae8c8"
 metafile = true
 
 [[files]]
