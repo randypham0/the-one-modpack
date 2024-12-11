@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement-reforged.pw.toml"
-hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
+hash = "fc3a91cc43b2233affad54320cfc63cc8d10bf98ad36f8b952e29dd5c203056c"
 metafile = true
 
 [[files]]
