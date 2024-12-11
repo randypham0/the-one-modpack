@@ -264,6 +264,11 @@ hash = "67a5e960c850f90b4a47e3668c301e64e64b1f473dd8c426c367fbdc9cfdda6b"
 metafile = true
 
 [[files]]
+file = "mods/ipla.pw.toml"
+hash = "d81f497c6227fea65b792644b78e05805f17620df2c430831f251cf4340d27b3"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "d0a53c6e32e9b1004b1eef27bd7d82e391732fd9c464e7f052d142b2ca09e6c3"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/marvelous-menagerie.pw.toml"
 hash = "5d5dfb3bcdd91df00cb89e396b8da4531d42bbff0a537148f3efa12f10b03d8b"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "82a0484217227dc92a79a12733b5a8051591c14c5aff1a55e7e675eb8c7eb72e"
 metafile = true
 
 [[files]]
