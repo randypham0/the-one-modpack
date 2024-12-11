@@ -539,6 +539,11 @@ hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
+file = "mods/trackwork.pw.toml"
+hash = "eee76f2f332b3b33330108e68e7e4d17980bb0da85c6b832f54ee6c69c5e683e"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "43284a55e537cb96d28160cdadab96dfd2ed3712529cc546a1c03313dd99eb46"
 metafile = true
